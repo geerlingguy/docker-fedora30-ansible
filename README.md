@@ -1,6 +1,6 @@
 # Fedora 30 Ansible Test Image
 
-![Build Status](https://travis-ci.com/geerlingguy/docker-fedora30-ansible.svg?branch=master)](https://travis-ci.com/geerlingguy/docker-fedora30-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora30-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora30-ansible/)
+[![Build Status](https://travis-ci.com/geerlingguy/docker-fedora30-ansible.svg?branch=master)](https://travis-ci.com/geerlingguy/docker-fedora30-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora30-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora30-ansible/)
 
 Fedora 30 Docker container for Ansible playbook and role testing.
 
